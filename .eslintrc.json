@@ -22,6 +22,12 @@
   "overrides": [
     {
       "files": ["*.js", "*.jsx"]
+    },
+    {
+      "files": ["server.js", "server/**/*.js", "generateSitemap.js", "scripts/**/*.js"],
+      "env": {
+        "node": true
+      }
     }
   ]
 }
