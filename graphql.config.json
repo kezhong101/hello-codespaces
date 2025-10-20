@@ -1,0 +1,4 @@
+{
+  "schema": "https://turbo-happiness-grq6j74pgrgfwrqx-3000.app.github.dev/graphql",
+  "documents": "src/api/graphql/**/*.{js,jsx}"
+}
